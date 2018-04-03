@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string-array name="main_title">
+        <item> Science </item>
+        <item> Technology</item>
+        <item>  Music </item>
+        <item> Sport</item>
+        <item> Geography </item>
+        <item> Communication </item>
+        <item> Arts</item>
+        <item> Food</item>
+        <item> School supplies</item>
+        <item> Animals</item>
+        <item> Jobs </item>
+        <item> Computer science </item>
+        <item> Medecine </item>
+        <item> Transport </item>
+    </string-array>
+
+    <string-array name="image_title">
+        <item>@drawable/science</item>
+        <item>@drawable/technology</item>
+        <item>@drawable/music</item>
+        <item>@drawable/sport</item>
+        <item>@drawable/geography</item>
+        <item>@drawable/communication</item>
+        <item>@drawable/arts</item>
+        <item>@drawable/food</item>
+        <item>@drawable/school</item>
+        <item>@drawable/animals</item>
+        <item>@drawable/jobs</item>
+        <item>@drawable/computer_science</item>
+        <item>@drawable/medical</item>
+        <item>@drawable/transport</item>
+
+
+    </string-array>
+</resources>
