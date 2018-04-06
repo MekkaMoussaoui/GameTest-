@@ -1,4 +1,4 @@
-#Fri Apr 06 11:27:13 GMT+01:00 2018
+#Fri Apr 06 20:21:44 GMT+01:00 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\54
-base.4=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\52
-base.3=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
-base.2=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\50
-base.1=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\53
-base.0=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\51
+base.5=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\71
+base.4=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\68
+base.3=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\69
+base.2=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\72
+base.1=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\73
+base.0=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\70
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex

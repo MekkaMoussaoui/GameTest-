@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Apr 06 11:27:11 GMT+01:00 2018
+#Fri Apr 06 20:19:06 GMT+01:00 2018
 17.baseType=DIRECTORY
 4.path=sync/en-us-ptm/mdef.md5
 25.base=C\:\\Android\\Mekkah\\app\\build\\intermediates\\assets\\debug
