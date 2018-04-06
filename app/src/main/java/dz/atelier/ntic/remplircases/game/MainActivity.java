@@ -38,20 +38,6 @@ public class MainActivity extends AppCompatActivity {
         String username = login.getText().toString().trim();
         String password = mdp.getText().toString().trim();
 
-        if (username.isEmpty()){
-            login.setError("Email is required");
-            login.requestFocus() ;
-            return;
-        }
-
-
-
-        if (password.isEmpty()){
-            mdp.setError("Password is required");
-            mdp.requestFocus() ;
-            return;
-        }
-
         mAuth.signInWithEmailAndPassword(username, password).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
