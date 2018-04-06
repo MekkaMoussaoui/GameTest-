@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "856148367427",
+    "firebase_url": "https://mekkah-7eb12.firebaseio.com",
+    "project_id": "mekkah-7eb12",
+    "storage_bucket": "mekkah-7eb12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856148367427:android:de76dbcb5a6155e9",
+        "android_client_info": {
+          "package_name": "dz.atelier.ntic.remplircases.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856148367427-hd82pbd5pp8p9gk4st0qmkrljomee4sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dz.atelier.ntic.remplircases.game",
+            "certificate_hash": "6b09ac08c6db4c9e491ff2bd249f930c1795c113"
+          }
+        },
+        {
+          "client_id": "856148367427-b3sden3mc9639udf7fptnpml1gk0puf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3IU9oWnGGSR4ygHJlmPejhj3DP45VtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856148367427-b3sden3mc9639udf7fptnpml1gk0puf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
