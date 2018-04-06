@@ -47,9 +47,9 @@ public class CategoriesActivity extends AppCompatActivity implements AdapterView
 
     @Override
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-        Intent myintent = new Intent(CategoriesActivity.this,GameMic.class);
+        Intent myintent = new Intent(this,Level_Difficult.class);
         myintent.putExtra("data",rowDatas.get(i));
         startActivity(myintent);
-    }
 
+    }
 }

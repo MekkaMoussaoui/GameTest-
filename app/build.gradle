@@ -28,8 +28,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     compile 'com.github.Hitomis:CircleMenu:v1.0.2'
-    compile project(':pocketsphinx-android-5prealpha-release')
-
 }
 
 apply plugin: 'com.google.gms.google-services'
