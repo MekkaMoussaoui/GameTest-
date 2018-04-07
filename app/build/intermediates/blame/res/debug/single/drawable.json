@@ -36,20 +36,20 @@
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\eff180caeab6ac7445c7ff44e2048973\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\technology.png",
         "source": "C:\\Android\\Mekkah\\app\\src\\main\\res\\drawable\\technology.png"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\eff180caeab6ac7445c7ff44e2048973\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroud.jpg",

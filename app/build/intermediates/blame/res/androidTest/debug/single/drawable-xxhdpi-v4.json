@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",

@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\eff180caeab6ac7445c7ff44e2048973\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",

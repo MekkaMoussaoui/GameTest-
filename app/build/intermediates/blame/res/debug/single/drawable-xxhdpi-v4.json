@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",

@@ -6,11 +6,15 @@ INJECTED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:2:1-30:12
 INJECTED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.github.Hitomis:CircleMenu:v1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\CircleMenu-v1.0.2.aar\6febcc338fa85fa2d53a05223add56f2\AndroidManifest.xml:2:1-17:12
 MERGED from [:pocketsphinx-android-5prealpha-release] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\pocketsphinx-android-5prealpha-release.aar\912240df97c8dcc8849fadc69474e121\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e53eca4fa6ac843c595b860876d1553\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\8302b439b9ec40992ed53b7ce7791a6c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\72de9db75d852adfa4dd2009e2a7fb40\AndroidManifest.xml:2:1-4:12
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\ef4dc23a866a8d1514fac883d11df68b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\2859dacfd140da40a63fdf5e1879867c\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\0738f448547ba88a19e561285ed9567b\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\f39fc8c3c7028e2371a8e57e03cdb8f2\AndroidManifest.xml:2:1-4:12
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:16:1-35:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:16:1-29:12
 MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\547d27863e6827585921635f7be98857\AndroidManifest.xml:16:1-50:12
@@ -51,10 +55,22 @@ uses-permission#android.permission.RECORD_AUDIO
 ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:6:5-71
 	android:name
 		ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\547d27863e6827585921635f7be98857\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\547d27863e6827585921635f7be98857\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:7:22-64
 application
 ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml:9:5-28:19
 MERGED from [com.github.Hitomis:CircleMenu:v1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\CircleMenu-v1.0.2.aar\6febcc338fa85fa2d53a05223add56f2\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.Hitomis:CircleMenu:v1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\CircleMenu-v1.0.2.aar\6febcc338fa85fa2d53a05223add56f2\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:19:5-25:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e53eca4fa6ac843c595b860876d1553\AndroidManifest.xml:9:5-20
@@ -149,16 +165,24 @@ MERGED from [com.github.Hitomis:CircleMenu:v1.0.2] C:\Users\Youcef Mégoura\.grad
 MERGED from [com.github.Hitomis:CircleMenu:v1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\CircleMenu-v1.0.2.aar\6febcc338fa85fa2d53a05223add56f2\AndroidManifest.xml:7:5-9:41
 MERGED from [:pocketsphinx-android-5prealpha-release] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\pocketsphinx-android-5prealpha-release.aar\912240df97c8dcc8849fadc69474e121\AndroidManifest.xml:7:5-9:41
 MERGED from [:pocketsphinx-android-5prealpha-release] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\pocketsphinx-android-5prealpha-release.aar\912240df97c8dcc8849fadc69474e121\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e53eca4fa6ac843c595b860876d1553\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6e53eca4fa6ac843c595b860876d1553\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\8302b439b9ec40992ed53b7ce7791a6c\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\8302b439b9ec40992ed53b7ce7791a6c\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\72de9db75d852adfa4dd2009e2a7fb40\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\72de9db75d852adfa4dd2009e2a7fb40\AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\ef4dc23a866a8d1514fac883d11df68b\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\ef4dc23a866a8d1514fac883d11df68b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\2859dacfd140da40a63fdf5e1879867c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\2859dacfd140da40a63fdf5e1879867c\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\0738f448547ba88a19e561285ed9567b\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\0738f448547ba88a19e561285ed9567b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\f39fc8c3c7028e2371a8e57e03cdb8f2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\f39fc8c3c7028e2371a8e57e03cdb8f2\AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:17:5-43
@@ -201,6 +225,24 @@ INJECTED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml
 		ADDED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android\Mekkah\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\714a1fffdf93cf6680f696e8f02b4597\AndroidManifest.xml:24:18-63
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\603d01f931b8d22287c946968dae9d28\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f30510ae123c7d030fdb6fa95455383a\AndroidManifest.xml:26:9-28:38
@@ -231,14 +273,6 @@ ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mé
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\0738f448547ba88a19e561285ed9567b\AndroidManifest.xml:19:86-145
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\0738f448547ba88a19e561285ed9567b\AndroidManifest.xml:19:19-85
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\547d27863e6827585921635f7be98857\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\547d27863e6827585921635f7be98857\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\e4f79e8d4b949135568dd094bf09fcf7\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Youcef Mégoura\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\0f1c84b746a0aab78c8525b84d7a44e3\AndroidManifest.xml:21:5-78

@@ -14,10 +14,15 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class SignUp extends AppCompatActivity {
 
-    EditText editTextEmail, editTextMdp ;
+    EditText editTextEmail, editTextMdp , username, age;
     private FirebaseAuth mAuth;
 
 
@@ -29,6 +34,8 @@ public class SignUp extends AppCompatActivity {
 
         editTextEmail = (EditText)findViewById(R.id.emailId);
         editTextMdp = (EditText)findViewById(R.id.mdpID);
+        username = (EditText)findViewById(R.id.usernameId);
+        age= (EditText)findViewById(R.id.ageId);
 
         mAuth = FirebaseAuth.getInstance();
     }
@@ -67,6 +74,13 @@ public class SignUp extends AppCompatActivity {
                 if (task.isSuccessful()){
                     Toast.makeText(getApplicationContext(),"User registered succesfull",Toast.LENGTH_SHORT).show();
                     startActivity(new Intent(SignUp.this, MainActivity.class));
+                    String user_id = mAuth.getCurrentUser().getUid();
+                    DatabaseReference current_user_db = FirebaseDatabase.getInstance().getReference().child("User").child(user_id);
+
+                    Map newPost = new HashMap();
+                    newPost.put("Username", username.getText().toString());
+                    newPost.put("Age", age.getText().toString());
+                    current_user_db.setValue(newPost);
                 }
                 else
                     Toast.makeText(getApplicationContext(),"some error accured",Toast.LENGTH_SHORT).show();
