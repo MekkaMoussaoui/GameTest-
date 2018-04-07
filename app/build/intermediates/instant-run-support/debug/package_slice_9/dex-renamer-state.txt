@@ -1,4 +1,4 @@
-#Fri Apr 06 20:21:43 GMT+01:00 2018
-base.0=C\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\66
+#Sat Apr 07 18:23:49 WAT 2018
+base.0=D\:\\Android\\Mekkah\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex

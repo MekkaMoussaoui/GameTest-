@@ -11,6 +11,7 @@ import android.support.v4.content.ContextCompat;
 
 import android.view.View;
 
+import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -18,8 +19,10 @@ import android.widget.Toast;
 import java.io.File;
 import java.io.IOException;
 import java.lang.ref.WeakReference;
+import java.util.ArrayList;
 import java.util.HashMap;
 
+import dz.atelier.ntic.remplircases.game.model.RowData;
 import edu.cmu.pocketsphinx.Assets;
 import edu.cmu.pocketsphinx.Hypothesis;
 import edu.cmu.pocketsphinx.RecognitionListener;
@@ -33,6 +36,13 @@ public class GameMic extends Activity implements RecognitionListener {
     ////////////////////////////////////////////////////
     RatingBar ratingBar;
     int score;
+    ImageView caption_image;
+
+
+    //ArrayList<Cat> tab_image_grammar = new ArrayList<>();
+    String grammar_sphinx;
+    int image_sphinx;
+
     ////////////////////////////////////////////////////
 
     /* Named searches allow to quickly reconfigure the decoder */
@@ -52,6 +62,15 @@ public class GameMic extends Activity implements RecognitionListener {
     public void onCreate(Bundle state) {
 
         super.onCreate(state);
+        /////////////////////////
+
+        Bundle extras = getIntent().getExtras();
+
+        grammar_sphinx = extras.getString("grammar");
+        image_sphinx = extras.getInt("image");
+
+
+        //////////////////////////
 
         // Prepare the data for UI
         captions = new HashMap<>();
@@ -72,13 +91,8 @@ public class GameMic extends Activity implements RecognitionListener {
         new SetupTask(this).execute();
     }
 
-    public void stopClick(View view) {
 
-
-    }
-
-
-    private static class SetupTask extends AsyncTask<Void, Void, Exception> {
+    private class SetupTask extends AsyncTask<Void, Void, Exception> {
         WeakReference<GameMic> activityReference;
         SetupTask(GameMic activity) {
             this.activityReference = new WeakReference<>(activity);
@@ -98,6 +112,14 @@ public class GameMic extends Activity implements RecognitionListener {
 
         @Override
         protected void onPostExecute(Exception result) {
+            ///////////////////////////////////////////////
+            caption_image = (ImageView)findViewById(R.id.caption_image);
+
+            caption_image.setImageResource(image_sphinx);
+
+            ///////////////////////////////////////////
+
+
             if (result != null) {
                 ((TextView) activityReference.get().findViewById(R.id.caption_text))
                         .setText("Failed to init recognizer " + result);
@@ -126,14 +148,11 @@ public class GameMic extends Activity implements RecognitionListener {
     @Override
     public void onDestroy() {
         super.onDestroy();
-
         if (recognizer != null) {
 
             recognizer.cancel();
             recognizer.shutdown();
         }
-
-
     }
 
 
@@ -150,6 +169,7 @@ public class GameMic extends Activity implements RecognitionListener {
 
     @Override
     public void onPartialResult(Hypothesis hypothesis) {
+
         if (hypothesis == null)
             return;
 
@@ -171,6 +191,9 @@ public class GameMic extends Activity implements RecognitionListener {
      */
     @Override
     public void onResult(Hypothesis hypothesis) {
+
+
+
         ((TextView) findViewById(R.id.result_text)).setText("");
         //////////////////////////////////////////////////
 
@@ -190,6 +213,7 @@ public class GameMic extends Activity implements RecognitionListener {
 
     @Override
     public void onBeginningOfSpeech() {
+
     }
 
     /**
@@ -239,7 +263,7 @@ public class GameMic extends Activity implements RecognitionListener {
 
 
         // Create grammar-based search for digit recognition
-        File digitsGrammar = new File(assetsDir, "digits.gram");
+        File digitsGrammar = new File(assetsDir, grammar_sphinx);
         recognizer.addGrammarSearch(DIGITS_SEARCH, digitsGrammar);
     }
 
@@ -254,16 +278,23 @@ public class GameMic extends Activity implements RecognitionListener {
     }
 
 
-    /***************************************************/
-    public int getScoreStars(int getBestScore){
+    ////////////////////////////////////////////////////
+    public float getScoreStars(int getBestScore){
         if (getBestScore <= 0 && getBestScore > -1000)
-            return 3;
-        else if (getBestScore <= -1000 && getBestScore > -3000)
+            return 3.0f;
+        else if (getBestScore <= -1000 && getBestScore > -2000)
+            return 2.5f;
+        else if (getBestScore <= -2000 && getBestScore > -3000)
             return 2;
-        else if (getBestScore <= -3000 && getBestScore > -5000)
+        else if (getBestScore <= -3000 && getBestScore > -4000)
+            return 1.5f;
+        else if (getBestScore <= -4000 && getBestScore > -5000)
             return 1;
+        else if (getBestScore <= -5000 && getBestScore > -6000)
+            return 0.5f;
         else
             return 0;
 
     }
+    ///////////////////////////////////////////////////
 }

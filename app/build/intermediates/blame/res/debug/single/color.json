@@ -1,58 +1,58 @@
 [
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\0738f448547ba88a19e561285ed9567b\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\c75cd0a8c8baf7edb8a35e1575f8ee96\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\c75cd0a8c8baf7edb8a35e1575f8ee96\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_search_url_text.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\c75cd0a8c8baf7edb8a35e1575f8ee96\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\Youcef Mégoura\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\603d01f931b8d22287c946968dae9d28\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "D:\\Android\\Mekkah\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Mékkah\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\358a8120174314a33c0a302ea1717d35\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     }
 ]

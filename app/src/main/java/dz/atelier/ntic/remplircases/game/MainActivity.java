@@ -28,7 +28,7 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 
 public class MainActivity extends AppCompatActivity {
-    Intent inte;
+
     EditText id, login , mdp;
     Button bcreation;
     private FirebaseAuth mAuth;

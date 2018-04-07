@@ -2,6 +2,6 @@
 
 grammar digits;
 
-<digit> = hello;
+<digit> = animals;
 
 public <digits> = <digit>;

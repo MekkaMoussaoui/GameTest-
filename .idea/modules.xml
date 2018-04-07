@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Android\Mekkah\Game.iml" filepath="C:\Android\Mekkah\Game.iml" />
-      <module fileurl="file://C:\Android\Mekkah\GameTest-.iml" filepath="C:\Android\Mekkah\GameTest-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Mekkah.iml" filepath="$PROJECT_DIR$/.idea/Mekkah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mekkah.iml" filepath="$PROJECT_DIR$/Mekkah.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/pocketsphinx-android-5prealpha-release/pocketsphinx-android-5prealpha-release.iml" filepath="$PROJECT_DIR$/pocketsphinx-android-5prealpha-release/pocketsphinx-android-5prealpha-release.iml" />
     </modules>

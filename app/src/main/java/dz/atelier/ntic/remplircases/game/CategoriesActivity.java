@@ -20,6 +20,8 @@ public class CategoriesActivity extends AppCompatActivity implements AdapterView
     String main_title[];
     TypedArray img_title;
 
+/*******/    ArrayList<Cat> tab_image_grammar = new ArrayList<>();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,13 +44,26 @@ public class CategoriesActivity extends AppCompatActivity implements AdapterView
 
         MyAdapter myAdapter = new MyAdapter(getApplicationContext(),rowDatas);
         myAdapter.notifyDataSetChanged();
+
         listview.setAdapter(myAdapter);
+
+
+        tab_image_grammar.add(new Cat("animals", R.drawable.animals, "digits.gram"));
+        tab_image_grammar.add(new Cat("food", R.drawable.food, "menu.gram"));
+
     }
 
     @Override
-    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+    public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
+        Bundle bundle = new Bundle();
+        bundle.putString("grammar", tab_image_grammar.get(position).grammar_sphinx);
+        bundle.putInt("image", tab_image_grammar.get(position).image_sphinx);
+        bundle.putString("word", tab_image_grammar.get(position).word_sphinx);
+
+
         Intent myintent = new Intent(CategoriesActivity.this,GameMic.class);
-        myintent.putExtra("data",rowDatas.get(i));
+        myintent.putExtras(bundle);
+
         startActivity(myintent);
     }
 
